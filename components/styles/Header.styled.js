@@ -9,7 +9,7 @@ export const Header = styled.header`
   padding: 24px 16px;
   background-color: #ededed;
   border-bottom: 1px solid #999;
-  z-index: 10;
+  z-index: 15;
 
   .burger {
     display: flex;
@@ -52,7 +52,7 @@ export const Utility = styled.div`
   padding: 16px;
   background-color: #ededed;
   border-bottom: 1px solid #999;
-  z-index: 10;
+  z-index: 5;
 
   .filter {
     display: flex;
