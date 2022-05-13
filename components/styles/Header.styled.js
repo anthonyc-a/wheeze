@@ -7,6 +7,7 @@ export const Header = styled.header`
   align-items: center;
   width: 100%;
   padding: 24px 16px;
+  background-color: #ededed;
   border-bottom: 1px solid #999;
   z-index: 10;
 
@@ -49,6 +50,7 @@ export const Utility = styled.div`
   top: 75px;
   width: 100%;
   padding: 16px;
+  background-color: #ededed;
   border-bottom: 1px solid #999;
 
   .filter {
