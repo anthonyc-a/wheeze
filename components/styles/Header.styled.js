@@ -52,6 +52,7 @@ export const Utility = styled.div`
   padding: 16px;
   background-color: #ededed;
   border-bottom: 1px solid #999;
+  z-index: 10;
 
   .filter {
     display: flex;
