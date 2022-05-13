@@ -1,5 +1,5 @@
 import React from "react";
-import { Utility } from "../../../styles/header.styled";
+import { Utility } from "../../../styles/Header.styled";
 
 const UtilityComponent = () => {
   return (

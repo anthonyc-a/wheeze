@@ -1,5 +1,5 @@
 import React from "react";
-import { Header } from "../../styles/header.styled";
+import { Header } from "../../styles/Header.styled";
 
 const HeaderComponent = ({ menuOpen, setMenuOpen }) => {
   return (
