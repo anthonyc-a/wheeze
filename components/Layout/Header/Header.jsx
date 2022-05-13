@@ -1,9 +1,7 @@
-import React, { useState } from "react";
-import { Header } from "../../styles/Header.styled";
-import MenuComponent from "./Menu/Menu";
-import UtilityComponent from "./Utility/Utility";
+import React from "react";
+import { Header } from "../../styles/header.styled";
 
-const HeaderComponent = ({menuOpen, setMenuOpen}) => {
+const HeaderComponent = ({ menuOpen, setMenuOpen }) => {
   return (
     <Header>
       <div
@@ -46,7 +44,6 @@ const HeaderComponent = ({menuOpen, setMenuOpen}) => {
           </g>
         </svg>
       </div>
-     
     </Header>
   );
 };

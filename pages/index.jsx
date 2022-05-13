@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import HeaderComponent from "../components/Layout/Header/Header";
+import HeaderComponent from "../components/Layout/Header/header";
 import MenuComponent from "../components/Layout/Header/Menu/Menu";
 import UtilityComponent from "../components/Layout/Header/Utility/Utility";
 import { PageContainer } from "../components/styles/PageContainer.styled";
